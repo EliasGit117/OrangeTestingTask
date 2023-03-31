@@ -1,0 +1,12 @@
+C:\Users\Elias\RiderProjects\OrangeTestingTask\src\back-end\Movies.Domain\bin\Debug\net7.0\Movies.Domain.deps.json
+C:\Users\Elias\RiderProjects\OrangeTestingTask\src\back-end\Movies.Domain\bin\Debug\net7.0\Movies.Domain.dll
+C:\Users\Elias\RiderProjects\OrangeTestingTask\src\back-end\Movies.Domain\bin\Debug\net7.0\Movies.Domain.pdb
+C:\Users\Elias\RiderProjects\OrangeTestingTask\src\back-end\Movies.Domain\obj\Debug\net7.0\Movies.Domain.csproj.AssemblyReference.cache
+C:\Users\Elias\RiderProjects\OrangeTestingTask\src\back-end\Movies.Domain\obj\Debug\net7.0\Movies.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias\RiderProjects\OrangeTestingTask\src\back-end\Movies.Domain\obj\Debug\net7.0\Movies.Domain.AssemblyInfoInputs.cache
+C:\Users\Elias\RiderProjects\OrangeTestingTask\src\back-end\Movies.Domain\obj\Debug\net7.0\Movies.Domain.AssemblyInfo.cs
+C:\Users\Elias\RiderProjects\OrangeTestingTask\src\back-end\Movies.Domain\obj\Debug\net7.0\Movies.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Elias\RiderProjects\OrangeTestingTask\src\back-end\Movies.Domain\obj\Debug\net7.0\Movies.Domain.dll
+C:\Users\Elias\RiderProjects\OrangeTestingTask\src\back-end\Movies.Domain\obj\Debug\net7.0\refint\Movies.Domain.dll
+C:\Users\Elias\RiderProjects\OrangeTestingTask\src\back-end\Movies.Domain\obj\Debug\net7.0\Movies.Domain.pdb
+C:\Users\Elias\RiderProjects\OrangeTestingTask\src\back-end\Movies.Domain\obj\Debug\net7.0\ref\Movies.Domain.dll

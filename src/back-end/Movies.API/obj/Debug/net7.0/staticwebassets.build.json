@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "52ayZD1/2NSSOE1IFdZ8NvfIkoe6GuIlcEENJtWyfg4=",
+  "Source": "Movies.API",
+  "BasePath": "_content/Movies.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Movies.API\\wwwroot",
+      "Source": "Movies.API",
+      "ContentRoot": "C:\\Users\\Elias\\RiderProjects\\OrangeTestingTask\\src\\back-end\\Movies.API\\wwwroot\\",
+      "BasePath": "_content/Movies.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Elias\\RiderProjects\\OrangeTestingTask\\src\\back-end\\Movies.API\\wwwroot\\dark-swagger.css",
+      "SourceId": "Movies.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Elias\\RiderProjects\\OrangeTestingTask\\src\\back-end\\Movies.API\\wwwroot\\",
+      "BasePath": "_content/Movies.API",
+      "RelativePath": "dark-swagger.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dark-swagger.css"
+    }
+  ]
+}

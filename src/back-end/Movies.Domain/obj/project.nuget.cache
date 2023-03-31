@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "wJpyfiRAib3/5+O85w2+B4GG5c48d4ksKkCCGnS0O6cxUgs9JxRnU/V/Mx6gaHfLZVhf8p8l9em2mXluDLnnZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elias\\RiderProjects\\OrangeTestingTask\\src\\back-end\\Movies.Domain\\Movies.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elias\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\Elias\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Elias\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Elias\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Elias\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

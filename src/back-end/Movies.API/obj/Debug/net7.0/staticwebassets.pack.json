@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Elias\\RiderProjects\\OrangeTestingTask\\src\\back-end\\Movies.API\\wwwroot\\dark-swagger.css",
+      "PackagePath": "staticwebassets\\dark-swagger.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Movies.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Movies.API.props",
+      "PackagePath": "build\\Movies.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Movies.API.props",
+      "PackagePath": "buildMultiTargeting\\Movies.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Movies.API.props",
+      "PackagePath": "buildTransitive\\Movies.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

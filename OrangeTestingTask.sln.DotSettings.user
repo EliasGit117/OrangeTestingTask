@@ -1,0 +1,47 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3ac78c04_002Dd25d_002D4a1f_002D954b_002D9324d41de06c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MoviesTestServices" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::0610E8CD-18EC-4DD4-9213-50F7B87F003E::net7.0::Movies.Tests.MoviesTestServices&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D931FDD2-F633-4585-B6EC-EF577AFE4744::net7.0::Movie.Test.Tests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D931FDD2-F633-4585-B6EC-EF577AFE4744::net7.0::Movie.Test.Tests.FailingTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=573c6726_002D9c8d_002D4ae5_002Db72f_002D18a2c914834b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestingMockData #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D931FDD2-F633-4585-B6EC-EF577AFE4744::net7.0::Movie.Test.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=76de1910_002Dcc6e_002D4849_002Da374_002D776dfbde0397/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Session #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D931FDD2-F633-4585-B6EC-EF577AFE4744::net7.0::Movie.Test.Tests.TestingMockData&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D931FDD2-F633-4585-B6EC-EF577AFE4744::net7.0::Movie.Test.Tests.GetMovieDetails&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ac88d239_002D5b4a_002D48c5_002D952e_002Dad3c10133ffd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Tests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D931FDD2-F633-4585-B6EC-EF577AFE4744::net7.0::Movie.Test.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cc207fe8_002De738_002D474c_002D8e91_002D01bd861f8cfa/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D931FDD2-F633-4585-B6EC-EF577AFE4744::net7.0::Movie.Test.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dce9bb5d_002D4d51_002D448e_002D9728_002De63401a1de39/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestingMockData" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D931FDD2-F633-4585-B6EC-EF577AFE4744::net7.0::Movie.Test.Tests.TestingMockData&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D931FDD2-F633-4585-B6EC-EF577AFE4744::net7.0::Movie.Test.Tests.GetMovieDetails&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e0d6a809_002Ded38_002D4d82_002Db001_002Df9524982a6ac/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D931FDD2-F633-4585-B6EC-EF577AFE4744::net7.0::Movie.Test.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f31130af_002Dbbd7_002D48df_002Db976_002D885a7b1486a3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::0610E8CD-18EC-4DD4-9213-50F7B87F003E::net7.0::Movies.Tests.MoviesTestServices&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D931FDD2-F633-4585-B6EC-EF577AFE4744::net7.0::Movie.Test.Tests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D931FDD2-F633-4585-B6EC-EF577AFE4744::net7.0::Movie.Test.Tests.FailingTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
